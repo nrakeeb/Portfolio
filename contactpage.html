@@ -5,43 +5,66 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/profile.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Syne&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/contact.css">
+
     <title>Contact Me</title>
 </head>
 
+
 <body>
-    <div class="container">
-        <div class="form">
-            <div class="contact-info"></div>
-            <div class="contact-form">
-                <span class="circle one"></span>
-                <span class="circle two"></span>
-                <form action="profile.html">
-                    <h3 class="title">Contact me</h3>
-                    <div class="input-container">
-                        <input type="text" name="name" class="input">
-                        <label form="">Name</label>
-                    </div>
-                    <div class="input-container">
-                        <input type="email" name="email" class="input">
-                        <label form="">Email</label>
-                    </div>
-                    <div class="input-container">
-                        <input type="tel" name="phone" class="input">
-                        <label form="">Phone</label>
-                    </div>
-                    <div class="input-container textarea">
-                        <textarea name="message" class="input"></textarea>
-                        <label form="">Message</label>
-                    </div>
-                    <input type="submit" value="Send" class="btn">
-                </form>
 
+    <nav class="navbar" id="homepage-nav">
+        <a href="about-me.html" class="active">About Me</a>
+        <a href="project-page.html">Projects</a>
+        <a href="contactpage.html">Contact Me</a>
+        <a href="./assets/images/coming soon.pdf">CV</a>
+
+    </nav>
+
+    <section id="contact">
+        <div class="contact-box">
+            <div class="contact-links">
+                <h2>CONTACT ME 😊 </h2>
+                <div class="links">
+                    <div class="link">
+                        <a href="https://www.linkedin.com/in/nouha-rakeeb-44a5561a7/"><img
+                                src="https://i.postimg.cc/m2mg2Hjm/linkedin.png" alt="linkedin"></a>
+                    </div>
+                    <div class="link">
+                        <a href="https://github.com/nrakeeb"><img src="https://i.postimg.cc/YCV2QBJg/github.png"
+                                alt="github"></a>
+                    </div>
+                    <div class="link">
+                        <a href="mailto:nouha_rakeeb@hotmail.co.uk"><img src="https://i.postimg.cc/NjLfyjPB/email.png"
+                                alt="email"></a>
+                    </div>
+                </div>
             </div>
+            <div class="contact-form-wrapper">
+                <form>
+                    <div class="form-item">
+                        <input type="text" name="sender" required>
+                        <label>Name:</label>
+                    </div>
+                    <div class="form-item">
+                        <input type="text" name="email" required>
+                        <label>Email:</label>
+                    </div>
+                    <div class="form-item">
+                        <textarea class="" name="message" required></textarea>
+                        <label>Message:</label>
+                    </div>
+                    <button class="submit-btn">Send</button>
 
+                </form>
+            </div>
         </div>
 
-    </div>
+    </section>
+    <div class="center"><a class="button" href="./homepage.html">Home</a></div>
 
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
 
