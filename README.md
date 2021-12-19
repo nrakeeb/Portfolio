@@ -8,9 +8,9 @@ The website presents my previous work, Linkedin, Github pages, and a way to get 
 
 # Application
 
-My delpoyed application: https://nrakeeb.github.io/updated-portfolio/
+My delpoyed application: https://nrakeeb.github.io/Portfolio/
 
-A link to my repo: https://github.com/nrakeeb/updated-portfolio
+A link to my repo: https://github.com/nrakeeb/Portfolio
 
 
 
@@ -20,7 +20,7 @@ A link to my repo: https://github.com/nrakeeb/updated-portfolio
 ## Javascript
 ## HTML
 ## CSS
-## Jqurey
+
 
 
 
