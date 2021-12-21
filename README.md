@@ -1,42 +1,42 @@
-# Updated-portfolio
+# Portfolio
 
-I created a professional portfilo for future employers to look through. 
+ [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
 
-The website presents my previous work, Linkedin, Github pages, and a way to get in touch with me.
+  ## Table of Contents
+  - [Description](#description)
+  - [Screenshots](#Screenshots)
+  - [Testing](#testing)
 
+ 
+  ## 🔍 Description:
 
+I created a professional portfilo for future employers to look through. The website presents my previous work, Linkedin, Github pages, and a way to get in touch with me.
 
-# Application
+The deloyed website can be found here:  https://nrakeeb.github.io/Portfolio/
 
-My delpoyed application: https://nrakeeb.github.io/Portfolio/
-
-A link to my repo: https://github.com/nrakeeb/Portfolio
-
-
-
-# Technologies
-
-## Bootstrap
-## Javascript
-## HTML
-## CSS
-
+ 
+  ## License:
+  [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
+  <br/>
+  This application is covered by the MIT license.
 
 
+  ## Screenshots:
+  
+![Capture 1](https://user-images.githubusercontent.com/82734765/147006188-18061245-111f-4e6e-9272-52b3c5717405.PNG)
 
-# Resoruces
-
-## Information about multiscroll
-
-https://github.com/alvarotrigo/multiScroll.js
-
-https://cdnjs.com/libraries/multiscroll.js
+![Capture 2](https://user-images.githubusercontent.com/82734765/147006205-a109f6f5-0c89-4408-8e01-24cc242f0f13.PNG)
 
 
-## Information about keyframe animation
+  ## ✏️ Testing:
+  There are no tests for this application.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+  ## Questions or get in touch!:
 
-https://www.w3schools.com/css/css3_animations.asp
+  - Github: 
+  Find me on GitHub:[nrakeeb](https://github.com/nrakeeb)
+  <br>
+  - Email: 
+  Email me on: nouha_rakeeb@hotmail.co.uk 
+  
